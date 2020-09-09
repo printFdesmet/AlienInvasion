@@ -9,5 +9,6 @@
         "editor.quickSuggestions": false
     },
     "editor.autoIndent": "none",
-    "editor.highlightActiveIndentGuide": false
+    "editor.highlightActiveIndentGuide": false,
+    "githubPullRequests.remotes": []
 }
