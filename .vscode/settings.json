@@ -1,0 +1,13 @@
+{
+    "vim.cursorStylePerMode.insert": "underline",
+    "editor.rulers": [
+    79,
+    ],
+    "[markdown]": {
+
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": false
+    },
+    "editor.autoIndent": "none",
+    "editor.highlightActiveIndentGuide": false
+}
