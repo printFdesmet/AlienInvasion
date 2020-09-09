@@ -8,7 +8,5 @@
         "editor.wordWrap": "off",
         "editor.quickSuggestions": false
     },
-    "editor.autoIndent": "none",
-    "editor.highlightActiveIndentGuide": false,
     "githubPullRequests.remotes": []
 }
